@@ -23,8 +23,8 @@ body {
   transform: rotate(45deg);
 }
 .ball {
-  width: 80px;
-  height: 80px;
+  width: 90px;
+  height: 90px;
   background: #ff8000;
   position: relative;
   top: 50%;
